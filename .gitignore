@@ -1,2 +1,4 @@
 results/
 .venv/
+configs/
+.DS_Store
